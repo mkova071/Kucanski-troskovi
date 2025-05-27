@@ -1,0 +1,10 @@
+.expense-stats {
+  margin-bottom: 20px;
+}
+.expense-stats ul {
+  list-style-type: none;
+  padding: 0;
+}
+.expense-stats li {
+  margin: 4px 0;
+}
